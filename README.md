@@ -21,11 +21,11 @@
 
 ### Home Screen
 
-![Home Screen](./assets/homepage.png)
+![Home Screen](./WeatherApp/assets/homepage.png)
 
 ### Weather Screen
 
-![Weather Screen](./assets/weather.png)
+![Weather Screen](./WeatherApp/assets/weather.png)
 
 ## Installation
 
