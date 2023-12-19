@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Text, View, TextInput, TouchableOpacity, ScrollView, FlatList, Image, StyleSheet } from 'react-native';
 
-const apiKey = 'dce74fd00b8073fbcb4587a964f5bd95';
+const apiKey = 'Use your own API token here';
 const weatherApiUrl = `http://api.openweathermap.org/data/2.5/weather?appid=${apiKey}`;
 const forecastApiUrl = `http://api.openweathermap.org/data/2.5/forecast?appid=${apiKey}`;
 
